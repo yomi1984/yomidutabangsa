@@ -1,0 +1,3 @@
+pemrograman cloud uts
+-  perkenalan dengan git dan github
+-  mulai menggunakan github
